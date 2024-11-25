@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/Authentication.unity
+    guid: 6d905d96cb8275a4a8a4a765b3880c2c
+  - enabled: 1
+    path: Assets/Scenes/Lobby and Host Room.unity
+    guid: 5e778ac9f63bce34c904eaa8b4801051
+  - enabled: 1
+    path: Assets/Scenes/Map5.unity
+    guid: c89278b7696d5e247a97dbb14ada3340
+  - enabled: 1
+    path: Assets/Scenes/Store.unity
+    guid: 778588c534e449b4585dd6e56e2df9e3
+  - enabled: 1
+    path: Assets/Scenes/Single_Lobby.unity
+    guid: a77418bf1c3dd814f9aaa848c2b29234
+  - enabled: 1
+    path: Assets/Scenes/SinglePlayer_1.unity
+    guid: c69a58316b623b8409a45fcd85127f82
+  - enabled: 1
+    path: Assets/Scenes/SinglePlayer_2.unity
+    guid: 8c963ba347ef6124a94f4e918fe35ece
+  - enabled: 1
+    path: Assets/Scenes/SinglePlayer_3.unity
+    guid: c11eb3c6eed5b7147983ad0610978aa2
+  - enabled: 1
+    path: Assets/Scenes/End game.unity
+    guid: eac84b951c2b7284c89669ce2107b36e
+  m_configObjects: {}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "269911393220",
+    "firebase_url": "https://wide-mouth-database-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wide-mouth-database",
+    "storage_bucket": "wide-mouth-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269911393220:android:d4a904e0e54713794b9a91",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.WIDEMOUTH"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269911393220-5hfic82ch49hpvbtoi4vefjl2jn03m79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJxFHxzMKFhjwJr2i9f5QjdRLxcVQ7vTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269911393220-5hfic82ch49hpvbtoi4vefjl2jn03m79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

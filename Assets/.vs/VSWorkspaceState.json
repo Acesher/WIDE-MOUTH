@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Scripts",
+    "\\Scripts\\OnlineManager",
+    "\\Scripts\\OnlineManager\\InGameMulti",
+    "\\Scripts\\OnlineManager\\Multiplayer"
+  ],
+  "SelectedNode": "\\Scripts\\OnlineManager\\NetworkManager.cs",
+  "PreviewInSolutionExplorer": false
+}
